@@ -2,8 +2,9 @@
 *.bkp
 printer-*.cfg
 
-# KTC
+# Stock configs
 /ktc/**
+/mainsail.cfg
 
 # Private configs
 /*.conf

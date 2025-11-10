@@ -1,0 +1,9 @@
+# Backups
+*.bkp
+printer-*.cfg
+
+# KTC
+/ktc/**
+
+# Private configs
+/*.conf
